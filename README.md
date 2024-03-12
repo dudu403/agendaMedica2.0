@@ -1,27 +1,25 @@
-# AgendaMedica20
+# Gerenciador Médico
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+O Gerenciador Médico é uma aplicação web desenvolvida em Angular que permite a gestão de informações relacionadas a médicos, atividades médicas e pacientes. Esta aplicação é útil para clínicas, consultórios médicos ou qualquer instituição que necessite organizar e acompanhar as atividades e profissionais da área da saúde.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Cadastro, edição e exclusão de médicos
+- Cadastro, edição e exclusão de atividades médicas
+- Cadastro, edição e exclusão de pacientes
+- Visualização detalhada de informações de médicos, atividades e pacientes
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular: Framework JavaScript para construção de interfaces de usuário
+- TypeScript: Linguagem de programação
+- HTML: Linguagem de marcação para estruturação de páginas web
+- CSS: Linguagem de estilização para definição de estilos visuais
+- ngx-toastr: Biblioteca para exibição de notificações na aplicação
+- ngx-bootstrap: Biblioteca de componentes Bootstrap para Angular
+- rxjs: Biblioteca para programação reativa em JavaScript
 
-## Build
+## Instalação e Execução
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone este repositório:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
