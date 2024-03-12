@@ -19,7 +19,3 @@ O Gerenciador Médico é uma aplicação web desenvolvida em Angular que permite
 - ngx-bootstrap: Biblioteca de componentes Bootstrap para Angular
 - rxjs: Biblioteca para programação reativa em JavaScript
 
-## Instalação e Execução
-
-1. Clone este repositório:
-
