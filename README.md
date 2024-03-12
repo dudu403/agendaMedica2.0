@@ -21,7 +21,7 @@ O Agendamedica2.0 é uma aplicação web desenvolvida em Angular que permite a g
 
 1. Clone este repositório:
 
-git clone https://github.com/Dudu403/agendamedica2.0.git
+git clone https://github.com/dudu403/agendamedica2.0.git
 
 2. Navegue até o diretório do projeto:
 
