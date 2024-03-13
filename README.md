@@ -1,27 +1,48 @@
-# AgendaMedica20
+# Agendamedica2.0
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+O Agendamedica2.0 é uma aplicação web desenvolvida em Angular que permite a gestão de informações relacionadas a médicos e atividades médicas. Esta aplicação é útil para clínicas, consultórios médicos ou qualquer instituição que necessite organizar e acompanhar as atividades e profissionais da área da saúde.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Cadastro, edição, visualização e exclusão de médicos
+- Cadastro, edição, visualização e exclusão de atividades médicas
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular: Framework JavaScript para construção de interfaces de usuário
+- TypeScript: Linguagem de programação
+- HTML: Linguagem de marcação para estruturação de páginas web
+- CSS: Linguagem de estilização para definição de estilos visuais
+- ngx-toastr: Biblioteca para exibição de notificações na aplicação
+- ngx-bootstrap: Biblioteca de componentes Bootstrap para Angular
+- rxjs: Biblioteca para programação reativa em JavaScript
 
-## Build
+## Instalação e Execução
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone este repositório:
 
-## Running unit tests
+git clone https://github.com/dudu403/agendamedica2.0.git
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Navegue até o diretório do projeto:
 
-## Running end-to-end tests
+cd agendamedica2.0
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. Instale as dependências:
 
-## Further help
+npm install
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4. Inicie a aplicação:
+
+ng serve
+
+5. Acesse a aplicação em seu navegador através do endereço [http://localhost:4200](http://localhost:4200).
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
+
+1. Faça um fork do projeto
+2. Crie uma branch com a sua feature: `git checkout -b feature/nova-feature`
+3. Faça commit das suas mudanças: `git commit -m 'Adiciona nova feature'`
+4. Faça push para a branch: `git push origin feature/nova-feature`
+5. Abra um pull request
