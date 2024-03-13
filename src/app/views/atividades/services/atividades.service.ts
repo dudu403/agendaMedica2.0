@@ -9,7 +9,7 @@ import { VisualizarAtividadeViewModel } from "../models/visualizar-atividade.vie
     providedIn: 'root'
 })
 export class AtividadesService{
-    private endpoint: string = 'https://localhost:7214/api/atividades/'
+    private endpoint: string = 'https://localhost:7121/api/atividades/'
 
     constructor(private http: HttpClient) { }
 
